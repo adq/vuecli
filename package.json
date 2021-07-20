@@ -5,5 +5,8 @@
   "dependencies": {
     "core-js": "^3.6.5",
     "vue": "^2.6.11"
+  },
+  "devDependencies": {
+    "vue-template-compiler": "^2.6.14"
   }
 }
